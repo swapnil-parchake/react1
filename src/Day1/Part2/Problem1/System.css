@@ -1,0 +1,16 @@
+.System{
+    margin-left:40px;
+}
+h3{
+    margin-left: 20px;
+}
+
+.mobile li:first-child {
+    list-style-type: square;
+}
+.mobile li:nth-child(2){
+    list-style-type: square;
+}
+.mobile li:last-child {
+    list-style-type: circle;
+}

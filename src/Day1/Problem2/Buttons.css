@@ -1,0 +1,63 @@
+.joinus{
+    color: white;
+    padding: 5px 20px;
+   border-radius: 30px;
+    background-color:rgb(32,152,204);
+    font-size:20px;
+}
+.settings{
+    color: white;
+    padding: 5px 20px;
+   border-radius: 30px;
+    background-color:rgb(129,185,200);
+    font-size:20px;
+}
+.login{
+    color: white;
+    padding: 5px 20px;
+   border-radius: 30px;
+   background-color: rgb(248,145,32);
+   font-size:20px;
+}
+.contact{
+    color: white;
+    padding: 5px 20px;
+   border-radius: 30px;
+    background-color:rgb(212,54,63);
+    font-size:20px;
+}
+.search{
+    color: white;
+    padding: 5px 20px;
+   border-radius: 30px;
+    background-color:rgb(129,176,68);
+    font-size:20px;
+}
+.help{
+    color: white;
+    padding: 5px 20px;
+   border-radius: 30px;
+    background-color:rgb(89,86,148);
+    font-size:20px;
+}
+.home{
+    color: white;
+    padding: 5px 20px;
+   border-radius: 30px;
+    background-color:rgb(236,79,150);
+    font-size:20px;
+}
+.download{
+    color: white;
+    padding: 5px 10px;
+    border-radius: 30px;
+    background-color: rgb(178,145,67);
+    font-size:20px;
+}
+.arrange{
+    margin: 100px;
+   display: grid;
+   grid-template-columns: repeat(2,200px);
+   grid-gap:20px;
+    
+}
